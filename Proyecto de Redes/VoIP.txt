@@ -1,0 +1,27 @@
+NY 00XXX
+	GG 001XX
+		Max 10 tlfs
+		192.56.130.113
+	SC 002XX
+		Max 5 tlfs
+		192.56.130.81
+UK 01
+	GG 011XX
+		Max 5 tlfs
+		192.56.130.65
+	SC 012XX
+		Max 5 tlfs
+		192.56.130.49
+PC 11
+	OF 111XX
+		Max 5 tlfs
+		192.56.130.17
+	OP 112XX
+		Max 5 tlfs
+		192.56.130.1
+BA 10
+	Max 6 tlfs
+	GG 101XX
+		192.56.130.97
+	OP 102XX
+		192.56.130.33
